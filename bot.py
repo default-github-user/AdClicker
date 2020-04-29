@@ -33,7 +33,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-# User Agent 
+# User Agent
+
+
+from fake_useragent import UserAgent
 
 
 # For Proxy Grabber
